@@ -1,4 +1,4 @@
-# kcp2k
+# KCP Network for Unity
 
 C# [kcp](https://github.com/skywind3000/kcp) for Unity.
 
@@ -14,3 +14,11 @@ Pull requests for bug fixes & tests welcome.
 kcp2k works perfectly in netcore.
 where-allocation only works with Unity's mono sockets.
 In order to run the nonalloc tests, kcp2k remains a Unity project until Unity moves to netcore.
+
+
+
+参考链接 
+
+1.kcp2k : https://github.com/vis2k/kcp2k
+
+2.CosmosFramework : https://github.com/DonnYep/CosmosFramework

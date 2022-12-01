@@ -1,0 +1,20 @@
+{
+  "name": "com.henuo.kcpnetwork",
+  "displayName": "KCPNetwork",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "这是一个KCP网络库,包含一个简单的使用案例",
+  "dependencies": {},
+  "author": {
+    "name": "HeNuo",
+    "email": "HeNuo@heNuo.com",
+    "url": "https://github.com/HeNuoLibrary/"
+  },
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Replace this string with your own description of the sample. Delete the Samples folder if not needed.",
+      "path": "Samples~/Example"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HeNuo.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b83af5d232f9a6a418a484893880388d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
