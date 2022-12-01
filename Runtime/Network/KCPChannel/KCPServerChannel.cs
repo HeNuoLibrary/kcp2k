@@ -30,6 +30,7 @@ namespace HeNuo.Network
         Action<int, byte[]> onDataReceived;
         Action<int, string> onError;
         Action onAbort;
+        public Dictionary<int, KcpServerConnection> Connections {get {return server.Connections;}}
         public event Action OnAbort
         {
             add { onAbort += value; }
